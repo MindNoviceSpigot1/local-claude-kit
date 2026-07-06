@@ -14,6 +14,10 @@ Real-time crypto intelligence for Claude, ChatGPT, Cursor, VS Code, Windsurf and
 
 <p align="center">
 
+<p align="center">
+  <img src="assets/banner.png" alt="OrbitMCP Banner">
+</p>
+
 [![Release](https://img.shields.io/github/v/release/MindNoviceSpigot1/OrbitMCP)](...)
 [![License](https://img.shields.io/github/license/MindNoviceSpigot1/OrbitMCP)](...)
 [![Stars](https://img.shields.io/github/stars/MindNoviceSpigot1/OrbitMCP)](...)
