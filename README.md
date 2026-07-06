@@ -47,12 +47,6 @@ Download → Launch → Connect.
 
 ---
 
-## Screenshot
-
-> Dashboard screenshot here
-
----
-
 # Features
 
 ✅ Wallet Analysis
